@@ -1,0 +1,80 @@
+Go
+r 200
+Mediterranean Avenue
+p 60
+Community Chest (1)
+c 0
+Baltic Avenue
+p 60
+Income Tax
+t 200
+Reading Railroad
+p 200
+Oriental Avenue
+p 100
+Chance (1)
+? 0
+Vermont Avenue
+p 100
+Connecticut Avenue
+p 120
+Jail
+n 0
+St. Charles Place
+p 140
+Electric Company
+p 150
+States Avenue
+p 140
+Virginia Avenue
+p 160
+Pennsylvania Railroad
+p 200
+St. James Place
+p 180
+Community Chest (2)
+c 0
+Tennesee Avenue
+p 180
+New York Avenue
+p 200
+Free Parking
+n 0
+Kentucky Avenue
+p 220
+Chance (2)
+? 0
+Indiana Avenue
+p 220
+Illinois Avenue
+p 240
+B & O Railroad
+p 200
+Ventnor Avenue
+p 260
+Atlantic Avenue
+p 260
+Water Works
+p 150
+Marvin Gardens
+p 280
+Go to Jail
+g 10
+Pacific Avenue
+p 300
+North Carolina Avenue
+p 300
+Community Chest (3)
+c 0
+Pennsylvania Avenue
+p 320
+Short Line Railroad
+p 200
+Chance (3)
+? 0
+Park Place
+p 350
+Luxury Tax
+t 75
+Boardwalk
+p 400

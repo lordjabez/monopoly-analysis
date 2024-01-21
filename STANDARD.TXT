@@ -1,0 +1,43 @@
+Property                     Hits     Probability
+-------------------------------------------------
+
+Jail                         5523     0.055230000
+Community Chest (2)          2865     0.028650000
+New York Avenue              2864     0.028640000
+Tennesee Avenue              2812     0.028120000
+St. James Place              2794     0.027940000
+Chance (2)                   2741     0.027410000
+Go                           2729     0.027290000
+B & O Railroad               2728     0.027280000
+Pennsylvania Railroad        2723     0.027230000
+Atlantic Avenue              2721     0.027210000
+Illinois Avenue              2704     0.027040000
+Water Works                  2699     0.026990000
+Kentucky Avenue              2696     0.026960000
+Free Parking                 2686     0.026860000
+Go to Jail                   2679     0.026790000
+Pacific Avenue               2674     0.026740000
+Ventnor Avenue               2641     0.026410000
+Marvin Gardens               2627     0.026270000
+North Carolina Avenue        2590     0.025900000
+Virginia Avenue              2556     0.025560000
+Indiana Avenue               2555     0.025550000
+States Avenue                2521     0.025210000
+Pennsylvania Avenue          2467     0.024670000
+Electric Company             2422     0.024220000
+Community Chest (3)          2415     0.024150000
+St. Charles Place            2411     0.024110000
+Income Tax                   2402     0.024020000
+Chance (1)                   2384     0.023840000
+Reading Railroad             2379     0.023790000
+Connecticut Avenue           2360     0.023600000
+Short Line Railroad          2342     0.023420000
+Baltic Avenue                2323     0.023230000
+Vermont Avenue               2312     0.023120000
+Oriental Avenue              2283     0.022830000
+Chance (3)                   2218     0.022180000
+Mediterranean Avenue         2207     0.022070000
+Community Chest (1)          2173     0.021730000
+Boardwalk                    2148     0.021480000
+Park Place                   2119     0.021190000
+Luxury Tax                   2118     0.021180000

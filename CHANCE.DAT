@@ -1,0 +1,32 @@
+Dividend
+r 50
+Building and Loan
+r 150
+Poor Tax
+t 15
+Go
+g 0
+Reading Railroad
+g 5
+St. Charles Place
+g 11
+Illinois Avenue
+g 24
+Boardwalk
+g 39
+Jail
+g 10
+Back 3 Spaces
+s 2
+Nearest Railroad
+s 3
+Nearest Railroad
+s 3
+Nearest Utility
+s 4
+Chairman of the Board
+s 5
+General Repairs
+s 6
+Get Out of Jail Free
+f 0

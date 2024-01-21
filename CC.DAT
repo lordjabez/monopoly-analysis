@@ -1,0 +1,32 @@
+Beauty Contest
+r 15
+Tax Refund
+r 20
+Services
+r 25
+Sale of Stock
+r 45
+Inherit
+r 100
+Christmas Fund
+r 100
+Life Insurance
+r 100
+Bank Error
+r 200
+Doctor's Fee
+t 50
+Hospital
+t 100
+School Tax
+t 150
+Go
+g 0
+Jail
+g 10
+Grand Opera
+s 0
+Street Repairs
+s 1
+Get Out of Jail Free
+f 0

@@ -1,0 +1,43 @@
+Property                     Hits     Probability
+-------------------------------------------------
+
+Jail                      219109870     0.054777468
+Community Chest (2)       115236206     0.028809051
+Tennesee Avenue           113114710     0.028278677
+New York Avenue           111208584     0.027802146
+St. James Place           110896883     0.027724221
+Free Parking              109704452     0.027426113
+Kentucky Avenue           108412218     0.027103055
+Ventnor Avenue            107993981     0.026998495
+Atlantic Avenue           107957649     0.026989412
+Water Works               107670298     0.026917574
+B & O Railroad            107584739     0.026896185
+Go                        107543335     0.026885834
+Marvin Gardens            107351723     0.026837931
+Go to Jail                107146098     0.026786524
+Chance (2)                107067204     0.026766801
+Pennsylvania Railroad     106963743     0.026740936
+Pacific Avenue            106872285     0.026718071
+Illinois Avenue           106564846     0.026641212
+Indiana Avenue            105384274     0.026346069
+North Carolina Avenue     103841328     0.025960332
+Virginia Avenue           102908152     0.025727038
+Community Chest (3)       100879746     0.025219937
+States Avenue             98859471     0.024714868
+Pennsylvania Avenue       97870000     0.024467500
+Electric Company          95791625     0.023947906
+Short Line Railroad       94311106     0.023577777
+Chance (1)                94265802     0.023566450
+Oriental Avenue           93430735     0.023357684
+Vermont Avenue            93345145     0.023336286
+Baltic Avenue             93260815     0.023315204
+Connecticut Avenue        92707782     0.023176946
+Reading Railroad          92702675     0.023175669
+St. Charles Place         92599697     0.023149924
+Income Tax                92598372     0.023149593
+Community Chest (1)       91115952     0.022778988
+Chance (3)                90483610     0.022620903
+Mediterranean Avenue      89168648     0.022292162
+Boardwalk                 88017393     0.022004348
+Luxury Tax                87397141     0.021849285
+Park Place                86211793     0.021552948
